@@ -1,0 +1,6 @@
+server:
+    port: 8081
+
+fix:
+    config:
+        path: 'client.conf'

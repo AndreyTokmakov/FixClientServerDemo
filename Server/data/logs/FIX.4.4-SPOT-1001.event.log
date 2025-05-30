@@ -1,0 +1,69 @@
+20250529-10:56:43: Session FIX.4.4:SPOT->1001 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20250529-10:56:43: Created session: FIX.4.4:SPOT->1001
+20250529-10:57:59: Session FIX.4.4:SPOT->1001 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20250529-10:57:59: Created session: FIX.4.4:SPOT->1001
+20250529-11:04:19: Session FIX.4.4:SPOT->1001 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20250529-11:04:19: Created session: FIX.4.4:SPOT->1001
+20250529-11:05:20: Session FIX.4.4:SPOT->1001 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20250529-11:05:20: Created session: FIX.4.4:SPOT->1001
+20250529-11:06:12: Session FIX.4.4:SPOT->1001 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20250529-11:06:12: Created session: FIX.4.4:SPOT->1001
+20250529-11:08:05: Session FIX.4.4:SPOT->1001 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20250529-11:08:05: Created session: FIX.4.4:SPOT->1001
+20250529-11:09:46: Session FIX.4.4:SPOT->1001 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20250529-11:09:46: Created session: FIX.4.4:SPOT->1001
+20250529-11:09:56: Accepting session FIX.4.4:SPOT->1001 from /127.0.0.1:57376
+20250529-11:09:56: Acceptor heartbeat set to 5 seconds
+20250529-11:09:56: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20250529-11:09:56: Received logon
+20250529-11:09:56: Responding to Logon request
+20250529-11:10:05: Disconnecting: Encountered END_OF_STREAM
+20250529-11:36:54: Accepting session FIX.4.4:SPOT->1001 from /127.0.0.1:37994
+20250529-11:36:54: Acceptor heartbeat set to 5 seconds
+20250529-11:36:54: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20250529-11:36:54: Received logon
+20250529-11:36:54: Responding to Logon request
+20250529-11:37:08: Disconnecting: Encountered END_OF_STREAM
+20250529-11:41:27: Session FIX.4.4:SPOT->1001 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20250529-11:41:27: Created session: FIX.4.4:SPOT->1001
+20250529-11:41:50: Accepting session FIX.4.4:SPOT->1001 from /127.0.0.1:38234
+20250529-11:41:50: Acceptor heartbeat set to 5 seconds
+20250529-11:41:50: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20250529-11:41:50: Received logon
+20250529-11:41:50: Responding to Logon request
+20250529-11:42:02: Disconnecting: Encountered END_OF_STREAM
+20250529-11:57:41: Session FIX.4.4:SPOT->1001 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20250529-11:57:41: Created session: FIX.4.4:SPOT->1001
+20250529-12:01:03: Session FIX.4.4:SPOT->1001 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20250529-12:01:03: Created session: FIX.4.4:SPOT->1001
+20250529-12:01:28: Accepting session FIX.4.4:SPOT->1001 from /127.0.0.1:42590
+20250529-12:01:28: Acceptor heartbeat set to 5 seconds
+20250529-12:01:28: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20250529-12:01:28: Received logon
+20250529-12:01:28: Responding to Logon request
+20250529-12:01:56: Disconnecting: Encountered END_OF_STREAM
+20250529-12:44:28: Session FIX.4.4:SPOT->1001 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20250529-12:44:28: Created session: FIX.4.4:SPOT->1001
+20250529-12:44:54: Accepting session FIX.4.4:SPOT->1001 from /127.0.0.1:48862
+20250529-12:44:54: Acceptor heartbeat set to 5 seconds
+20250529-12:44:54: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20250529-12:44:54: Received logon
+20250529-12:44:54: Responding to Logon request
+20250529-12:46:37: Disconnecting: Encountered END_OF_STREAM
+20250530-04:46:24: Session FIX.4.4:SPOT->1001 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20250530-04:46:24: Session state is not current; resetting FIX.4.4:SPOT->1001
+20250530-04:46:24: Created session: FIX.4.4:SPOT->1001
+20250530-04:46:42: Accepting session FIX.4.4:SPOT->1001 from /127.0.0.1:48866
+20250530-04:46:42: Acceptor heartbeat set to 5 seconds
+20250530-04:46:42: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20250530-04:46:42: Received logon
+20250530-04:46:42: Responding to Logon request
+20250530-04:51:35: Disconnecting: Encountered END_OF_STREAM
+20250530-05:28:36: Session FIX.4.4:SPOT->1001 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20250530-05:28:36: Created session: FIX.4.4:SPOT->1001
+20250530-05:28:50: Accepting session FIX.4.4:SPOT->1001 from /127.0.0.1:47438
+20250530-05:28:50: Acceptor heartbeat set to 5 seconds
+20250530-05:28:50: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20250530-05:28:50: Received logon
+20250530-05:28:50: Responding to Logon request
+20250530-05:29:08: Disconnecting: Encountered END_OF_STREAM
